@@ -2,9 +2,13 @@
 
 Trò chơi học Incoterms® 2020 chạy thẳng trên trình duyệt, không cần cài đặt.
 
-## Cách chơi
+## ▶ Chơi ngay: https://ngkimoanh06.github.io/incoterm-learning/
 
-Mở `index.html` bằng Chrome, Edge hoặc Firefox. Tiến độ tự lưu trong trình duyệt đó.
+Mở link trên bằng máy tính hoặc điện thoại là chơi được. Tiến độ tự lưu trên trình duyệt của bạn.
+
+## Chạy trên máy mình
+
+Tải mã nguồn về rồi mở `index.html` bằng Chrome, Edge hoặc Firefox.
 
 Nếu muốn chạy qua máy chủ cục bộ (không bắt buộc), mở PowerShell tại thư mục này:
 
